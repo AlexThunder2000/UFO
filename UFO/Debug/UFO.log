@@ -1,0 +1,20 @@
+﻿  Source.cpp
+F:\Visual projects\UFO\UFO\Source.cpp(46,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+F:\Visual projects\UFO\UFO\Source.cpp(48,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+F:\Visual projects\UFO\UFO\Source.cpp(51,1): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+F:\Visual projects\UFO\UFO\Source.cpp(71,42): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+F:\Visual projects\UFO\UFO\Source.cpp(71,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+F:\Visual projects\UFO\UFO\Source.cpp(106,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\Visual projects\UFO\UFO\Source.cpp(144,15): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+F:\Visual projects\UFO\UFO\Source.cpp(145,16): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+F:\Visual projects\UFO\UFO\Source.cpp(169,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+F:\Visual projects\UFO\UFO\Source.cpp(175,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  UFO.vcxproj -> F:\Visual projects\UFO\Debug\UFO.exe
